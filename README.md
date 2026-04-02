@@ -1,7 +1,6 @@
 # Transformer from Scratch
 
-This project implements a transformer architecture from scratch using PyTorch's basic tensor operations. The implementation follows the architecture described in the paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) by Vaswani et al.
-
+This project implements a transformer architecture from scratch using PyTorch's basic tensor operations.
 ## Features
 
 - Complete transformer architecture with encoder and decoder
